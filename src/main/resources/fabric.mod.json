@@ -15,7 +15,8 @@
   "entrypoints": {
     "meteor": [
       "com.example.addon.AddonTemplate",
-      "com.example.addon.DeliveryAddon"
+      "com.example.addon.DeliveryAddon",
+      "com.example.addon.FastSignInteractAddon"
     ]
   },
   "mixins": [
