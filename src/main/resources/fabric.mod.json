@@ -16,7 +16,8 @@
     "meteor": [
       "com.example.addon.AddonTemplate",
       "com.example.addon.DeliveryAddon",
-      "com.example.addon.FastSignInteractAddon"
+      "com.example.addon.FastSignInteractAddon",
+      "com.example.addon.TreePacketMinerAddon"
     ]
   },
   "mixins": [
